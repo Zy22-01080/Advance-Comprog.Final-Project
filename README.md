@@ -8,6 +8,7 @@ This system will assess the health aspect of the user including mental health, p
 This program is connected to SDG no.3 Goodhealth and Well-being because it assess the health aspects of the user. We've chosen this topic because we believe that health is needed to be first more than anything.
 
 # Screenshots of the Program
+![1](https://github.com/shintaromidorima/Advance-Comprog.Final-Project/assets/153376605/641f438a-f9a0-4f75-917e-f078e7d9361e)
 
 
 # Overall Function of This Program
